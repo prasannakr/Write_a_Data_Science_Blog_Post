@@ -1,14 +1,14 @@
 # Write_a_Data_Science_Blog_Post
 First project as part of Udacity Data Science Nano degree program
 
-## H2**Table of Contents:**
-1. [Project Introduction](https://github.com/prasannakr/Write_a_Data_Science_Blog_Post/blob/main/README.md#-Project-Introduction)
-2. [File Description](https://github.com/prasannakr/Write_a_Data_Science_Blog_Post/blob/main/README.md#-File-Description)
+## **Table of Contents:**
+1. Project Introduction
+2. File Description
 3. Libraries used
 4. Results
 5. Licensing, Acknowledgements
 
-**Project Introduction**<br/>
+## **Project Introduction**<br/>
   For this proect, i was interested in using dataset from CarDekho on used cars to better understand how the selling price is calculated.
 I analyzed the following:
   1. What is the age of the car when selling price is the best?
@@ -17,10 +17,10 @@ I analyzed the following:
   
   3. Understand the important factors behind selling price using Machine Learning Models.
   
-**File Description**<br/>
+## **File Description**<br/>
     There are two files attached in this repository. First is the excel file, which is the dataset from Kaggle (https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho) and second is the jupiter note book file with the entire analysis answering above questions
 
-**Libraries Used**<br/>
+## **Libraries Used**<br/>
     Following Python libraries were used for Exploratory data analysis & modeling.
 import pandas as pd 
 import numpy as np 
@@ -35,8 +35,8 @@ from sklearn.impute import KNNImputer
 from matplotlib.ticker import FuncFormatter
 %matplotlib inline
 
-**Results**<br/>
+## **Results**<br/>
   The main findings of the code can be found at the post available here.
  
-**Licensing, Acknowledgements**<br/>
+## **Licensing, Acknowledgements**<br/>
   Must give credit to CarDekho for the data & the same being available on Kaggle.
