@@ -3,10 +3,10 @@ First project as part of Udacity Data Science Nano degree program
 
 ## **Table of Contents:**
 1. [Project Introduction](README.md#project-introduction)
-2. File Description
-3. Libraries used
-4. Results
-5. Licensing, Acknowledgements
+2. [File Description](README.md#file-description)
+3. [Libraries used](README.md#libraries-used)
+4. [Results](README.md#results)
+5. [Licensing, Acknowledgements](README.md#licensing-acknowledgements)
 
 ## **Project Introduction**<br/>
   For this proect, i was interested in using dataset from CarDekho on used cars to better understand how the selling price is calculated.
