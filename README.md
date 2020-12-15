@@ -2,7 +2,7 @@
 First project as part of Udacity Data Science Nano degree program
 
 ## **Table of Contents:**
-1. Project Introduction
+1. [Project Introduction](README.md#project-introduction)
 2. File Description
 3. Libraries used
 4. Results
@@ -22,18 +22,18 @@ I analyzed the following:
 
 ## **Libraries Used**<br/>
     Following Python libraries were used for Exploratory data analysis & modeling.
-import pandas as pd 
-import numpy as np 
-import matplotlib.pyplot as plt 
-import datetime
-import statsmodels.api as sm
-import seaborn as sns
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
-from sklearn.impute import KNNImputer
-from matplotlib.ticker import FuncFormatter
-%matplotlib inline
+import pandas as pd <br/>
+import numpy as np <br/>
+import matplotlib.pyplot as plt <br/>
+import datetime<br/>
+import statsmodels.api as sm<br/>
+import seaborn as sns<br/>
+from sklearn.linear_model import LinearRegression<br/>
+from sklearn.model_selection import train_test_split<br/>
+from sklearn.metrics import r2_score, mean_squared_error<br/>
+from sklearn.impute import KNNImputer<br/>
+from matplotlib.ticker import FuncFormatter<br/>
+%matplotlib inline<br/>
 
 ## **Results**<br/>
   The main findings of the code can be found at the post available here.
