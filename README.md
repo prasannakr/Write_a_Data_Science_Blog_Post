@@ -1,7 +1,7 @@
 # Write_a_Data_Science_Blog_Post
 First project as part of Udacity Data Science Nano degree program
 
-**Table of Contents:**
+## H2**Table of Contents:**
 1. [Project Introduction](https://github.com/prasannakr/Write_a_Data_Science_Blog_Post/blob/main/README.md#-Project-Introduction)
 2. [File Description](https://github.com/prasannakr/Write_a_Data_Science_Blog_Post/blob/main/README.md#-File-Description)
 3. Libraries used
