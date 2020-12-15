@@ -36,7 +36,7 @@ from matplotlib.ticker import FuncFormatter<br/>
 %matplotlib inline<br/>
 
 ## **Results**<br/>
-  The main findings of the code can be found at the post available here.
+  The main findings of the code can be found at the post available [here](https://prasannakr.medium.com/getting-smart-with-selling-used-cars-ef77257d6c73).
  
 ## **Licensing, Acknowledgements**<br/>
   Must give credit to CarDekho for the data & the same being available on Kaggle.
