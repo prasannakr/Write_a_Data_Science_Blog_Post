@@ -2,7 +2,7 @@
 First project as part of Udacity Data Science Nano degree program
 
 **Table of Contents:**
-1. [Project Introduction](-Project-Introduction)
+1. [Project Introduction](#md-Project-Introduction)
 2. File Description
 3. Libraries used
 4. Results
